@@ -1,0 +1,39 @@
+html {
+  font-size: 16px;
+  font-family: Quicksand;  
+  background-color: rgb(228, 234, 240)
+}
+
+body {
+  width: 600px;
+  margin: 0% auto;
+  background-color: rgba(255, 255, 255, 0.932);
+  padding: 20px 20px 50px 20px; 
+  border: 3px solid rgb(34, 162, 194);
+}
+
+h1 {
+  margin: 0;  
+  padding: 10px;
+  color: rgb(17, 88, 105);
+  font-size: 60px;
+  text-align: center;
+}
+
+p, li, a {
+  font-size: 16px;
+  line-height: 1;
+  letter-spacing: 1px; 
+  font-weight: bold;
+}
+
+img {
+  display: block;
+  margin: 0 auto; 
+}
+
+.userName {
+  height: 5px;
+  color: rgb(173, 0, 0);
+  font-weight: bold;
+}
